@@ -1,1 +1,2 @@
 Test 5 file
+This line will be stashed
