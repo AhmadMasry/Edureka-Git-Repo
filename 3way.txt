@@ -1,1 +1,2 @@
 This is 3way file in master
+This file is to test 3way merge
